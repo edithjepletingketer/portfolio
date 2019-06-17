@@ -1,0 +1,65 @@
+body{
+	background-color:#f4f6f9;
+}
+header{
+	width: 100%;
+	background-color: #031F33;
+	height: 80px;
+	position: fixed;
+	top: 0;
+	}
+h1{
+	text-align: center;
+	color: white;
+	font-family: arial;
+}	
+
+.gallery{
+	background-color: white;
+	padding-top: 140px;
+	width: 1080px;
+	min-height: 700px;
+	margin: 0 auto; 
+}
+
+.gallery img{
+	padding: 20px;
+	width: 300px;
+	height: 300px;
+	float: left;
+
+
+}
+
+
+/*.basket img{
+	width: 400px;
+}
+.advert img{
+	padding-left: 25px;
+}*/
+footer{
+width: 100%;
+height: 120px;
+background-color: #031F33;
+bottom: 0;
+
+
+}
+h3{
+	padding-top: 5px;
+	text-align: center;
+	color: white;
+	font-family: arial;
+}
+footer p{
+	text-align: center;
+	color: white;
+	font-family: arial;
+}
+
+
+
+
+
+
